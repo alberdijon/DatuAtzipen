@@ -7,9 +7,9 @@ Welcome to the Game REST API documentation. This project was developed as part o
 Swagger UI
 
 ### MongoDB Connection Details
-Connection String: mongodb://localhost
-Database Name: games
-Collection Name: game
+Connection String: mongodb://localhost  
+Database Name: games  
+Collection Name: game  
 
 ### Maven Execution Command
 mvn spring-boot:run
