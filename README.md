@@ -4,11 +4,11 @@ This project was created as part of the Data Access course in the second year of
 
 Project Background: Developed for the Data Access subject in the second year of the Development of Multiplatform Applications program at Uni Eibar.
 
--Main Objective: Creation of a REST API for MongoDB interaction, aiming to understand the integration of a REST API in a web application context. 
--Dataset: A JSON dataset was selected, containing information about Nobel Prizes awarded in the last century.  
--Database Interaction: The REST API facilitates interactions with a MongoDB database, allowing for the storage and retrieval of Nobel Prize data.  
--Learning Focus: The project serves as a practical learning experience, emphasizing the role of REST APIs in web applications and providing insights into MongoDB database integration.  
--By following these steps, the project offers a comprehensive learning journey in developing and utilizing a REST API within the context of a web application, using a dataset focused on Nobel Prizes for practical implementation.  
+1.Main Objective: Creation of a REST API for MongoDB interaction, aiming to understand the integration of a REST API in a web application context. 
+2.Dataset: A JSON dataset was selected, containing information about Nobel Prizes awarded in the last century.  
+3.Database Interaction: The REST API facilitates interactions with a MongoDB database, allowing for the storage and retrieval of Nobel Prize data.  
+4.Learning Focus: The project serves as a practical learning experience, emphasizing the role of REST APIs in web applications and providing insights into MongoDB database integration.  
+5.By following these steps, the project offers a comprehensive learning journey in developing and utilizing a REST API within the context of a web application, using a dataset focused on Nobel Prizes for practical implementation.  
 
 ## Project Structure
 ### Swagger Access
