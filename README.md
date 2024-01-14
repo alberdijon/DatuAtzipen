@@ -35,21 +35,6 @@ This Spring Boot application interacts with a MongoDB database. To create the da
 ## Java Project
 The Java project is a Spring Boot application structured using Maven. The project includes classes for models, controllers, repositories, and a main configuration class. The models represent the structure of the data, and repositories handle data operations. The main controller defines endpoints for the service.
 
-#### Class Diagram
-lua
-Copy code
-  +---------------------+        +------------------+
-  |      MainController |        |SpringConfiguration|
-  +---------------------+        +------------------+
-              |                          |
-  +---------------------+        +------------------+
-  |        GameRepository|        |  Application     |
-  +---------------------+        +------------------+
-                           \
-                       +------------------+
-                       |      MongoDB     |
-                       |MongoClient, Codec|
-                       +------------------+
 ## Conclusion
 This project provides a comprehensive understanding of building a REST API with Spring Boot, connecting to a MongoDB database, and structuring a Java project. Feel free to explore the Swagger documentation and interact with the API to manage game information.
 
