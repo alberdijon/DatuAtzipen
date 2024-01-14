@@ -23,11 +23,11 @@ The REST service supports various types of requests, aligning with typical CRUD 
 
 ### Overview
 Type	Endpoint	Result
-GET	/games/jokuguztiak	Returns all games in JSON format
-GET	/games/jokoabilatu	Returns the game that matches the given identifier
-POST	/games/jokuberria	Adds a new game
-PUT	/games/jokuaeguneratu	Updates game information based on the identifier
-DELETE	/games/jokuaezabatu	Deletes a game based on the identifier
+GET	/games/jokuguztiak	Returns all games in JSON format  
+GET	/games/jokoabilatu	Returns the game that matches the given identifier  
+POST	/games/jokuberria	Adds a new game  
+PUT	/games/jokuaeguneratu	Updates game information based on the identifier  
+DELETE	/games/jokuaezabatu	Deletes a game based on the identifier  
 
 ## MongoDB
 This Spring Boot application interacts with a MongoDB database. To create the database, install the MongoDB Community edition and MongoDB Compass. Configure a connection to the local machine using the connection string mongodb://localhost. Create a database named games and a collection named game. Import the dataset, and MongoDB will create documents for each game.
