@@ -22,7 +22,7 @@ The dataset for this project focuses on games and their related information. It 
 The REST service supports various types of requests, aligning with typical CRUD operations: create (POST), read (GET), update (PUT), and delete (DELETE). Endpoints handle different types of requests, making the service versatile. Requests can be made using Swagger UI or other development environments like Insomnia or Postman.
 
 ### Overview
-Type	Endpoint	Result
+Type	Endpoint	Result  
 GET	/games/jokuguztiak	Returns all games in JSON format  
 GET	/games/jokoabilatu	Returns the game that matches the given identifier  
 POST	/games/jokuberria	Adds a new game  
